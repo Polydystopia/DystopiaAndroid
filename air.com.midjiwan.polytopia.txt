@@ -4,7 +4,7 @@ Replaces default polytopia server URL with Dystopia one.
 [FILE_IN_APK]
 {"name":"assets/bin/Data/Managed/Metadata/global-metadata.dat"}
 {"original":"68 74 74 70 73 3A 2F 2F 70 6F 6C 79 74 6F 70 69 61 2D 70 72 6F 64 2E 6E 65 74 2F"}
-{"replaced":"68 74 74 70 3A 2F 2F 6A 6F 75 6B 65 2D 63 6F 6D 70 2D 61 61 61 3A 38 30 38 30 2F"
+{"replaced":"68 74 74 70 3A 2F 2F 6A 6F 75 6B 65 2D 63 6F 6D 70 2D 61 61 61 3A 38 30 38 30 2F"}
 
 [END]
 Dystopia added.
